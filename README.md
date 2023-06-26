@@ -70,3 +70,5 @@ Please ensure that your contributions adhere to the [Code of Conduct](CODE_OF_CO
 ---
 
 Thank you for using CoinKeeper! We hope this application helps you manage your finances effectively.
+
+You can access the CoinKeeper website [here](https://coin-keeper.netlify.app/).
