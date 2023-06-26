@@ -1,5 +1,7 @@
 # CoinKeeper
 
+Visit the CoinKeeper website [here](https://coin-keeper.netlify.app/).
+
 CoinKeeper is a web-based personal finance tracker that helps you keep track of your income and expenses. It provides an intuitive interface for adding, editing, and deleting transactions, allowing you to easily manage your financial records. With CoinKeeper, you can stay on top of your finances and make informed decisions about your money.
 
 ## Features
@@ -71,4 +73,3 @@ Please ensure that your contributions adhere to the [Code of Conduct](CODE_OF_CO
 
 Thank you for using CoinKeeper! We hope this application helps you manage your finances effectively.
 
-You can access the CoinKeeper website [here](https://coin-keeper.netlify.app/).
